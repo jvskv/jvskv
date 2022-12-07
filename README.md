@@ -1,5 +1,4 @@
 Software Dev. Student
-Inspiring Front End Dev.
 Knowledge in Java, JavaScript, Python, CSS, React, SQL
 
 <!---
