@@ -1,4 +1,4 @@
-Software Dev. Student
+Software Dev. Student.    
 Knowledge in Java, JavaScript, Python, CSS, React, SQL
 
 <!---
